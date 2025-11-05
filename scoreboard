@@ -1,0 +1,17 @@
+default:
+  titles: 'Your server'
+  scores:
+    18: ''
+    17: '   &7⌚ %localtime_time_MMM d, Y%'
+    16: ''
+    15: ' &aBienvenido &7%player_name%:'
+    14: ' &c⭐ &fʀᴀɴɢᴏ: %powerranks_primary_prefix%'
+    13: ' &a&l$ &fᴅɪɴᴇʀᴏ: &a$%vault_eco_balance%'
+    12: ' &6&l✨ &fᴄᴏɪɴꜱ: &aPronto..'
+    11: ''
+    10: ' &#3DE0B8&l✔ &fᴇɴ ʟɪɴᴇᴀ: &#3DE0B8%server_online%'
+    9: ' &#3D65E0🌊 &fʜᴏʀᴀꜱ ᴊᴜɢᴀᴅᴀꜱ: &#3D65E0%statistic_time_played:hours% Hours'
+    8: ' &c⚔ &fᴋɪʟʟꜱ: &c%statistic_player_kills%'
+    7: ' &4☠ &fᴍᴜᴇʀᴛᴇꜱ: &4%statistic_deaths%'
+    5: ''
+    4: '&7 ɪᴘ '
